@@ -1,6 +1,13 @@
 # Hotel-Airbnb-Booking-Analytics-System
 This Power BI portfolio project features a Hotel &amp; Airbnb Booking Analytics System. It transforms raw data into insights using ETL, star schema modeling, and DAX. The interactive dashboard tracks revenue, occupancy, and guest behaviour to optimize business decisions.
 
+
+
+
+https://github.com/user-attachments/assets/0575669e-94cb-48e7-980c-504297af59ed
+
+
+
 ## 📌 Business Problem & Objective
 A rapidly growing hospitality company managing hotels and Airbnb-style rentals across multiple cities faced challenges in tracking business performance. Relying on manual spreadsheet reports made it difficult to monitor revenue growth, occupancy fluctuations, and service quality.
 
